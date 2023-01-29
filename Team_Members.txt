@@ -1,0 +1,15 @@
+Team member 1:
+Name: Alexander Chow
+Skills: Programming
+Roles: Programmer and tester
+
+Team memeber 2:
+Name: Joseph Carrillo
+Skills: Modeling
+Roles: artist, team leader, and tester
+
+Joseph Carrillo was selected to be the team leader because he has the most experience in VR and he is the one who pitched the idea. 
+
+First month leader: Joseph
+Second month leader: Alexander
+Third month leader: Joseph
